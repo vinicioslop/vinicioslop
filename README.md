@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Vinícius Lopes
 
-- 🌱 I’m currently learning Python/Flutter
-- 💬 Ask me about Linux
+##
 
 <div>
   <a href="https://github.com/vinicioslop">
