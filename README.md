@@ -16,6 +16,8 @@
   <img align="center" alt="vini-CSS3" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="vini-Javascript" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
+  <img align="center" alt="vini-CSharp" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+</div>
   
 ##
   
