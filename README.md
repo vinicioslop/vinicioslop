@@ -9,8 +9,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <!--<img align="center" alt="vini-Linux" height="30" weight="40" src="">-->
   <img align="center" alt="vini-Windows" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+  <!--<img align="center" alt="vini-Linux" height="30" weight="40" src="">-->
   <img align="center" alt="vini-HTML5" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="vini-CSS3" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="vini-Javascript" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
