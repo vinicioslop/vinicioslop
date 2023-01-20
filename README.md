@@ -1,7 +1,7 @@
 ### Hello, I'm Vinícius Lopes, most of my time i'm studying, but i do other things beside that. If you want to now what i'm doing just follow me. 👻
 
 ##
-
+<!--
 <div>
   <a href="https://github.com/vinicioslop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicioslop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,4 +27,5 @@
  
 ![Snake animation](https://github.com/vinicioslop/vinicioslop/blob/output/github-contribution-grid-snake.svg)
  
+-->
 </div>
