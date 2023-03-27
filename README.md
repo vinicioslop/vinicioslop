@@ -1,31 +1,73 @@
-### Hello, I'm Vinícius Lopes, most of my time i'm studying, but i do other things beside that. If you want to now what i'm doing just follow me. 👻
+## Oi, sou Vinícius Lopes, grande parte do meu tempo estou estudando, mas faço outras coisas também. Curioso? Só me seguir 😁
 
-##
-<!--
 <div>
-  <a href="https://github.com/vinicioslop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicioslop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslop&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave"/>
 </div>
+
+</br>
+
+<div>
+  <h2>Hard Skills</h2>
+  <p>Técnologias que eu conheço 👇</p>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="windows-logo" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="linux-logo" height="45" weight="55" src="https://www.svgrepo.com/show/184138/linux.svg">
-  <img align="center" alt="html5-logo" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css3-logo" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript-logo" height="40" weight="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="csharp-logo" height="45" weight="55" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="python-logo" height="50" weight="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <div>
+    <h3>Design e Prototipagem</h3>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+  </div>
+  
+  <div>
+    <h3>IDEs</h3>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </div>
+  
+  <div>
+    <h3>Tecnologias</h3>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
+
+  <div>
+    <h3>Banco de Dados</h3>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </div>
+  
+  <div>
+    <h3>Sistemas Operacionais</h3>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  </div>
+  
+  <div>
+    <h3>Cloud</h3>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </div>
 </div>
+
+</br>
+
+<div>
+  <h2>Redes Sociais e Contato</h2>
+  <p>Caso queira falar comigo 📞</p>
   
-##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/viniciuslopeslima/" target="_blank"><img align="center" alt="linkedin-logo" height="50" width="50" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"></a>
-  <a href="https://www.instagram.com/viniciusl.21/" target="_blank"><img align="center" alt="twitter-logo" height="50" width="50" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
-  <a href="https://www.twitter.com/viniciusll21/" target="_blank"><img align="center" alt="twitter-logo" height="50" width="50" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a>
- 
-![Snake animation](https://github.com/vinicioslop/vinicioslop/blob/output/github-contribution-grid-snake.svg)
- 
--->
+  <a href="https://www.linkedin.com/in/viniciuslopeslima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/viniciusl.21/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto: vinicioslop7@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </div>
