@@ -62,34 +62,8 @@
   <h2>Redes Sociais e Contato</h2>
   <p>Caso queira falar comigo 📞</p>
   
-  <a href="https://www.linkedin.com/in/viniciuslopeslima/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a target="_blank" href="https://social.vinicioslop.com.br/">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
   </a>
-  <a href="https://www.instagram.com/viniciusl.21/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto: vinicioslop7@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
+  
 </div>
-
-#
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/vinicioslop/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/vinicioslop/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/vinicioslop/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
