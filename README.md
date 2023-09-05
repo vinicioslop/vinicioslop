@@ -1,8 +1,8 @@
 ## Oi, sou Vinícius Lopes, grande parte do meu tempo estou estudando, mas faço outras coisas também. Curioso? Só me seguir 😁
 
 <div>
-  <img height="180em" src="https://github-readme-stats-kq7hf6znm-vinicioslop.vercel.app/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats-kq7hf6znm-vinicioslop.vercel.app/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave"/>
+  <img height="180em" src="https://githubcard.vinicioslop.com.br/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave"/>
+  <img height="180em" src="https://githubcard.vinicioslop.com.br/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave"/>
 </div>
 
 </br>
