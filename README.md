@@ -55,4 +55,4 @@ Caso queira falar comigo 📞
 
 [![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://social.vinicioslop.com.br/)
 
-![Snake animation](https://github.com/vinicioslop/vinicioslop/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg)
+![Snake animation](https://github.com/vinicioslop/vinicioslop/blob/output/github-contribution-grid-snake-dark.svg)
