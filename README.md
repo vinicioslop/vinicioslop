@@ -1,7 +1,7 @@
 # Oi, sou Vinícius Lopes, grande parte do meu tempo estou estudando, mas faço outras coisas também. Curioso? Só me seguir 😁
 
-![Vinícius GitHub stats](https://githubcard.vinicioslop.com.br/api?username=vinicioslop&show_icons=true&&include_all_commits=true&theme=synthwave)
-![Top Langs](https://githubcard.vinicioslop.com.br/api/top-langs/?username=vinicioslop&layout=compact&theme=synthwave)
+![vinicioslop's Stats](https://github-readme-stats.vercel.app/api?username=vinicioslop&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![vinicioslop's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslop&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
